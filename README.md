@@ -1,4 +1,4 @@
-# Building Greener Cities: A StoryMap Utilizing Geospatial Data for Sustainable Urban Planning
+# Building Greener Cities: Utilizing Geospatial Data for Sustainable Urban Planning
 
 ![Aspiration](aspiration.png)
 
