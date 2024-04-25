@@ -1,5 +1,7 @@
 # Building Greener Cities: A StoryMap Utilizing Geospatial Data for Sustainable Urban Planning
 
+![Aspiration](aspiration.png)
+
 Welcome to the repository for "Building Greener Cities," which explores the potential of geospatial data for sustainable urban planning in Delhi, India.
 
 ## Embark on a Journey through Sustainable Urban Planning:
@@ -18,7 +20,7 @@ QR Code: Scan the QR code below (or download the image file: story_map_qr.png) t
 
 Dive deeper into the key findings and research conclusions with our visually compelling infographic poster:
 
-infographic_poster.png: [View Infographic Poster](infographic_poster.png)
+infographic_poster.pdf: [View Infographic Poster](infographic_poster.pdf)
 
 ## Abstract Report:
 
